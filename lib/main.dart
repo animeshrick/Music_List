@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
-
-import 'MusicList.dart';
+import 'package:movie/MusicList.dart';
 
 void main() => runApp(new MyApp());
 
